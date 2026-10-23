@@ -1,0 +1,8 @@
+Variable,N_outliers,Pct_outliers,Borne_inf,Borne_sup,Min,Max
+age,0,0.0,-4.5,95.5,21.0,70.0
+revenu_mensuel,0,0.0,-18040.12,65520.88,2501.0,44993.0
+dettes_totales,0,0.0,-96088.25,293841.75,15.0,199887.0
+anciennete_emploi,0,0.0,-19.0,53.0,0.0,35.0
+incidents_paiement,0,0.0,-5.0,11.0,0.0,6.0
+montant_credit,0,0.0,-232865.5,741372.5,10282.0,499979.0
+ratio_endettement,250,8.33,-0.54,1.38,0.0,6.22

@@ -1,0 +1,4 @@
+Segment,Score_range,N_clients,Taux_defaut,Décision,Taux_intérêt
+Faible,650–999,449,0.0%,APPROUVER — Crédit accordé sans conditions,Taux standard
+Modéré,550–650,66,0.0%,APPROUVER AVEC CONDITIONS — Garanties supplémentaires requises,Taux majoré (+1-2%)
+Élevé,0–550,85,51.8%,REFUSER ou ÉTUDE APPROFONDIE — Risque trop élevé,Non applicable

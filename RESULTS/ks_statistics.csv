@@ -1,0 +1,5 @@
+Modèle,KS,Seuil_optimal
+Régression Logistique,0.9532,0.274
+Arbre de Décision,0.9503,0.3333
+Random Forest,0.9928,0.6194
+SVM,0.9766,0.1196

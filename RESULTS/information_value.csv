@@ -1,0 +1,5 @@
+Variable,IV,Pouvoir_predictif
+revenu_bin,10.6944,Très fort
+endettement_bin,2.7495,Très fort
+age_bin,0.0139,Inutile
+anciennete_bin,0.011,Inutile
